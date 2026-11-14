@@ -1,0 +1,4 @@
+# Python requerido por el compilador y el generador PSP
+numpy==2.5.3
+pillow==12.3.0
+lz4==4.4.5
